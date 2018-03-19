@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  padding-top: 10%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+
+.App-container {
+  display:  flex;
+  justify-content: space-between;
+}
+
+.App-boxStyle {
+  width: 70px;
+  height: 80px;
+  background: none;
+  border: 0.5px solid rgb(128, 128, 128);
+  border-radius: 8px;
+}
+
+.App-textStyle{
+  text-align: center;
+  font-family: HelveticaNeue, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: rgb(128, 128, 128);
+  margin-top: 5px;
+}
+
+.App-numberStyle{
+  font-size: 40px;
+  text-align: center;
+  font-family: HelveticaNeue, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: rgb(85, 85, 85);
+}
+
+.App-textMessageStyle{
+  text-align: center;
+  font-family: HelveticaNeue, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: rgb(85, 85, 85);
+  margin-top: 20px;
+  font-size: 40px;
+}
